@@ -12,7 +12,11 @@ export default function Home() {
   amet consectetur adipisicing elit. Ea consectetur ullam dolorem aliquid aperiam alias et similique facilis illo 
   dignissimos unde adipisci veniam corporis at, illum quo. Odit, ratione rem?
 </p>
-
+<h2>
+  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, amet laborum quae qui distinctio maiores ratione in, aliquid blanditiis quod quaerat officia ipsam 
+  accusantium, s
+  oluta fugiat fugit libero odit debitis.
+</h2>
 
     </div>
   );
